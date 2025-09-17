@@ -1,0 +1,6 @@
+jupyterlab
+notebook
+voila
+langchain
+langchain[google-genai]
+python-dotenv
